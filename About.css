@@ -1,0 +1,218 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 27px;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 10px;
+  }
+}.u-section-2 {
+  background-image: url("images/NoirPlatetMinimalisteComptabilitEntrepriseSiteweb11.png");
+  background-position: 50% 0%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 523px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 500px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 {
+    background-position: 6.06% 0%;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 486px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 {
+    background-position: 0% 0%;
+  }
+
+  .u-section-2 .u-sheet-1 {
+    min-height: 220px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 27px;
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 10px;
+  }
+}.u-section-4 {
+  background-image: url("images/NoirPlatetMinimalisteComptabilitEntrepriseSiteweb3.png");
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-4 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-image: none;
+  font-size: 1rem;
+  margin: 324px 72px 60px auto;
+  padding: 10px 121px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 433px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-top: 277px;
+    margin-right: 54px;
+    padding-right: 102px;
+    padding-left: 101px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 386px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-top: 253px;
+    margin-right: 44px;
+    padding-right: 75px;
+    padding-left: 74px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 302px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-top: 183px;
+    margin-right: 28px;
+    padding: 4px 54px 4px 53px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 {
+    background-position: 0% 50%;
+  }
+
+  .u-section-4 .u-sheet-1 {
+    min-height: 220px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    font-size: 0.75rem;
+    margin-top: 137px;
+    margin-right: -12px;
+    margin-bottom: 56px;
+    padding: 2px 35px;
+  }
+}.u-section-5 .u-sheet-1 {
+  min-height: 10px;
+}.u-section-6 {
+  background-image: url("images/NoirPlatetMinimalisteComptabilitEntrepriseSiteweb6.png");
+  background-position: 50% 50%;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-6 .u-text-1 {
+  font-size: 3rem;
+  margin: 148px 89px 0 auto;
+}
+
+.u-section-6 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 27px 89px 60px auto;
+  padding: 10px 81px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 412px;
+  }
+
+  .u-section-6 .u-text-1 {
+    margin-right: 73px;
+  }
+
+  .u-section-6 .u-btn-1 {
+    margin-right: 73px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 333px;
+  }
+
+  .u-section-6 .u-text-1 {
+    width: auto;
+    margin-top: 87px;
+    margin-right: 56px;
+  }
+
+  .u-section-6 .u-btn-1 {
+    margin-top: 28px;
+    margin-right: 56px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 254px;
+  }
+
+  .u-section-6 .u-text-1 {
+    font-size: 1.875rem;
+    margin-right: auto;
+    margin-left: 379px;
+  }
+
+  .u-section-6 .u-btn-1 {
+    margin-top: 7px;
+    margin-right: 42px;
+    padding: 1px 46px 2px 45px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 216px;
+  }
+
+  .u-section-6 .u-text-1 {
+    margin-top: 63px;
+    margin-right: -18px;
+    margin-left: 239px;
+  }
+
+  .u-section-6 .u-btn-1 {
+    margin-top: 12px;
+    margin-right: -18px;
+    margin-left: 239px;
+  }
+}
